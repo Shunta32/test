@@ -14,7 +14,7 @@ body {
 }
 
 #game-container {
-  position: relative;
+  position: relative;  /* 親要素にposition: relativeを追加 */
   width: 600px;
   height: 400px;
   background-color: #fff;
@@ -31,7 +31,7 @@ body {
 }
 
 #ball {
-  position: absolute;
+  position: absolute;  /* ボールに絶対位置を設定 */
   width: 40px;
   height: 40px;
   background-color: red;
