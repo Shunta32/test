@@ -1,0 +1,21 @@
+{
+  "name": "ボール追いかけゲーム",
+  "short_name": "ボールゲーム",
+  "description": "ボールを追いかけてスコアを競うゲームです。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icons/lowres.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "icons/hd_hi.webp",
+      "sizes": "72x72",
+      "type": "image/webp"
+    }
+  ]
+}
