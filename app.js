@@ -24,3 +24,4 @@ ball.addEventListener("click", function() {
 });
 
 moveBall();  // ゲーム開始時にボールをランダムに配置
+
